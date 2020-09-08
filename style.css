@@ -1,0 +1,83 @@
+#calculator {
+    background-color: rgb(245, 245, 245);
+        border-radius: 5px;
+        position: relative;
+        width: 450px;
+        height: 550px;
+        margin: 10px auto;
+        top: 30px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) ;
+}
+
+#history {
+    height: 45px;
+    text-align: right;
+    color: rgb(10, 10, 10);
+    font-size: 25px;
+    padding: 10px;
+}
+#result {
+    height: 35px;
+    text-align: right;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-weight: bold;
+    padding: 30px;
+}
+#display {
+    height: 200px;
+    
+}
+#keyboard{
+    height: 0px;
+    width: 300px;
+    margin: -18px 75px;
+}
+.button {
+        background-color: rgb(62, 62, 63);
+        border: none;
+        color: white;
+        height: 60px;
+        width: 60px;
+        padding: 20px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        font-weight: bolder;
+        margin: 5px 5px;
+        cursor: pointer;
+        border-radius: 50px;
+        }
+.opbutton {
+        background-color: rgb(136, 127, 236);
+        border: none;
+        color: white;
+        height: 60px;
+        width: 60px;
+        padding: 20px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        font-weight: bolder;
+        margin: 5px 5px;
+        cursor: pointer;
+        border-radius: 50px;
+}
+.equalbutton{
+        background-color: rgb(33, 214, 33);
+        border: none;
+        color: white;
+        height: 60px;
+        width: 60px;
+        padding: 20px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        font-weight: bolder;
+        margin: 5px 5px;
+        cursor: pointer;
+        border-radius: 50px;
+}
