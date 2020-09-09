@@ -2,7 +2,7 @@
     background-color: rgb(245, 245, 245);
         border-radius: 5px;
         position: relative;
-        width: 450px;
+        width: 330px;
         height: 550px;
         margin: 10px auto;
         top: 30px;
@@ -29,9 +29,9 @@
     
 }
 #keyboard{
-    height: 0px;
-    width: 300px;
-    margin: -18px 75px;
+    height: 350px;
+    margin: 1px 19px
+
 }
 .button {
         background-color: rgb(62, 62, 63);
